@@ -2,7 +2,7 @@
   "greeting": "Hey !",
   "name": "Héloïse",
   "greetingText": "C'est parti !",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "wishText": "test",
   "imagePath": "img/lydia2.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Joyeux Anniversaire Héloïse.... (+ 200 mots xD)",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "Il y a encore des choses a regarder !",
+  "replayText": "Ou click, si tu veux le revoir",
   "outroSmiley": ":)"
 }
