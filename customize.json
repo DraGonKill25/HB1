@@ -1,13 +1,13 @@
 {
   "greeting": "Hey !",
   "name": "Héloïse",
-  "greetingText": "C'est parti !",
+  "greetingText": "C'est aujourd'hui !",
   "wishText": "test",
   "imagePath": "img/lydia2.png",
-  "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Joyeux Anniversaire Héloïse.... (+ 200 mots xD)",
+  "text1": "C'est ton anniversaire!!! :D",
+  "textInChatBox": "Joyeux Anniversaire Héloïse.... (+ 300 mots xD)",
   "sendButtonLabel": "Send",
-  "text2": "C'est ce que j'allais faire au debut. Comme d'habitude \"un peu\" long...",
+  "text2": "C'est ce que j'allais faire au debut. Comme d'habitude \"un peu\" long ...",
   "text3": "Puis j'ai arreter et commencer a reflechir",
   "text4": "Et j'ai realiser que maybe je peux faire qqch de ",
   "text4Adjective": "spéciale",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Il y a encore des choses a regarder !",
-  "replayText": "Ou click, si tu veux le revoir",
+  "outroText": "Bonne journee ! Profite bien et encore joyeux anniversaire !",
+  "replayText": "Ou click, si tu veux le revoir ¯\\_(ツ)_/¯",
   "outroSmiley": ":)"
 }
